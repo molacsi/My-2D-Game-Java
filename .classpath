@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Player"/>
+	<classpathentry kind="src" path="Water"/>
+	<classpathentry kind="src" path="Wall"/>
+	<classpathentry kind="src" path="Exterior Ground"/>
+	<classpathentry kind="src" path="StoneGround"/>
+	<classpathentry kind="src" path="Tree"/>
+	<classpathentry kind="src" path="Prop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
